@@ -1,0 +1,9 @@
+export const Formdata = [
+['Alternance','Emploi(CDD)','Emploi(CDI)','Interim','Job','Stage Professionnel','Stage Academique'],
+['Job','Industriel','Aviation','Logistique et Transport','Maritime','Douane et Transit','Evenementiel','BTP/Construction','Informatique','Hotellerie/Restauration','Tourisme','Management','Administration','Soins corporel','Gestion/Comptabilité','Commerce/Vente','Santé','Banque','Microfinance','Assurance','Marketing digital/Com','Agriculture','Elevage','Agroalimentaire','Autre'],
+['Baffoussam','Bamenda','Bertoua','Buea','Douala','Ebolowa','Garoua','Maroua','Ngaoundere','Yaounde'],
+['Aucun','Diplome de formation','CEP ou EQ','BEPC ou EQ','Probatoire ou EQ','BAC ou EQ','BTS ou EQ','Licence ou EQ','Maitrise ou EQ','Ingenieurie ou EQ'],
+['Aucune','Debutant','Senior','Expert'],
+['Agent immobilier',"Agent d'entretien",'Babysitter','Beatmaker','Blanchisseur','Carreleur','Carrossier','Chauffeur à Domicile','Coach-Sportif','Coach-Nutritionist','Coiffeur','Community-Manager','Consultant-marketing-digital','Cordonnier','Couturier','Cuisinier',"Decorateur-d'intérieur",'Designer-graphique','Developpeur-web','Developpeur-logiciel','Developpeur-mobile','Dj','Electricien','Electricien-Auto','Esthéticien','Frigoriste','Gardien','Geometre','Graphiste','Impresario','Infirmier','Infographiste','Jardinier','Maquilleur','Masseuse','Mécanicien-Auto','Mécanicien-Moto','Mécanicien-Engin','Ménagère','Menusier','Monteur-video','Mototaximan','Peintre-artiste','Peintre-batiment','Perruquier','Photographe','Plombier','Portier','Prothésiste-ongulaire','réparateur-ordi','Réparateur-phone','réparateur-Tv','Répétiteur-Linguistique','Répétiteur-primaire','Répétiteur-secondaire','Soudeur','Styliste','Taximan','Technicien-agricole',"Technicien-d'élévage",'Technicien froid et clim','Technicien-videosurveillance','Tricycle','Vitrier','Webdesigner'],
+['Aucun','Eleve','Etudiant','Travailleur','Entrepreneur','Entreprise']
+]

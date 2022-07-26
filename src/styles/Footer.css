@@ -1,0 +1,32 @@
+.footer{
+    margin: 1rem 0rem;
+}
+.footer-container{
+    width: 70%;
+    height: 10rem;
+    margin: auto;
+    border-radius: 1rem;
+    background-color: white;
+    text-align: center;
+    display: flex;
+}
+.footer-container .ullist{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    color: black;
+    width: 80rem;
+    margin: auto;
+}
+.footer-container ul li{
+    font-size: 18px;
+    list-style-type: none;
+}
+.footer-container .ullist .ullist2{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    height: 120px;
+}
